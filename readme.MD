@@ -52,10 +52,10 @@ You can use Claude to help you understand the code, but you should implement the
 
 **Step 1.** Download and unzip these four files. 
 
-https://datasets.imdbws.com/title.basics.tsv.gz
-https://datasets.imdbws.com/title.principals.tsv.gz
-https://datasets.imdbws.com/name.basics.tsv.gz
-https://datasets.imdbws.com/title.ratings.tsv.gz
+- https://datasets.imdbws.com/title.basics.tsv.gz
+- https://datasets.imdbws.com/title.principals.tsv.gz
+- https://datasets.imdbws.com/name.basics.tsv.gz
+- https://datasets.imdbws.com/title.ratings.tsv.gz
 
 and install the following packages: networkx requests tqdm
 
